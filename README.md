@@ -1,6 +1,6 @@
 # PyFingers
 
-The 2P Finger Dance Dance Revolution music game in Python (QT) 
+The 2P Finger Dance Dance Revolution music game in Python (**PYQT5**) 
 
 This project is one of my school project which is done in a hurry week, it still needs much improvement. See [TODO](#todo).
 However, in the current version, you can already have some fun with creating your own music sheet and play it (with your friend, it's 2P).
@@ -12,6 +12,7 @@ However, in the current version, you can already have some fun with creating you
 - [FEATURES](#features)
 - [TODO](#todo)
 - [DEMO](#demo)
+- [BUILD](#Build)
 
 FEATURES
 ===
@@ -38,3 +39,19 @@ DEMO
 ===
 
 [Youtube Demo Video](https://www.youtube.com/watch?v=cCnGRNj_92g)
+
+
+BUILD
+===
+
+1. Use Pycharm open it and pull the dependencies. Or use `pip`. (It depends **pyqt5**)
+
+2. Type commands
+```
+cd PyFingers
+python MyMainView.py
+```
+
+3. The repository ignores all music components in sheets and musics directories but includes only a Demo music which you can play by choosing the music **king_boss_op.mp3** on the homepage panel.
+
+
