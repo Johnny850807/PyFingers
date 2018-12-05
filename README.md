@@ -10,7 +10,7 @@ However, in the current version, you can already have some fun with creating you
 # Table of contents
 
 - [FEATURES](#features)
-- [HOW-TO-EDIT-MY-MUSIC-SHEET](#how-to-edit-my-music-sheet)
+- [HOW-TO-PLAY](#how-to-play)
 - [TODO](#todo)
 - [DEMO](#demo)
 - [BUILD](#Build)
@@ -22,10 +22,22 @@ FEATURES
 - Play any music sheet and prepare your fingers 
 - Java Style code, I'm as Java as Fk...
 
-HOW TO EDIT MY MUSIC SHEET?
+HOW TO PLAY
 ===
 
+**Make your own music sheet first then play it.**
 
+1. To make your own music sheet
+    1. Go to the Music Sheet Arrangement Page.
+    2. Open the music file you want to arrange for.
+    3. Click the start button to start the arrangement, then the music will be played.
+    4. While the music playing, push **←↑↓→** on the keyboard to arrange the arrows, the **arrangement system is watching all the arrows you push, when they are hit and in which directions**, and then it will record them into the sheet file which is placed **\resources\sheets** prefixed by the music file name. 
+
+2. Play your own music
+    1. Go to the homepage, select your music name and hit the start game button.
+    2. The sheet loading engine will load your premade sheet in with all arrows arranged, so you can start enjoying your DDR game with your own music.
+    3. Further, you can share your music to your friend by giving him the sheeet file placed in **\resources\sheets** and the corresponding music file placed in **\resources\sheets\musics**. He should place them under the same place then he can play it.
+    
 TODO
 ===
 
