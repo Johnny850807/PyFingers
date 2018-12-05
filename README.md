@@ -10,6 +10,7 @@ However, in the current version, you can already have some fun with creating you
 # Table of contents
 
 - [FEATURES](#features)
+- [HOW-TO-EDIT-MY-MUSIC-SHEET](#how-to-edit-my-music-sheet)
 - [TODO](#todo)
 - [DEMO](#demo)
 - [BUILD](#Build)
@@ -20,6 +21,10 @@ FEATURES
 - Create and Edit your **own music sheet** of a music. (Defines arrows)
 - Play any music sheet and prepare your fingers 
 - Java Style code, I'm as Java as Fk...
+
+HOW TO EDIT MY MUSIC SHEET?
+===
+
 
 TODO
 ===
