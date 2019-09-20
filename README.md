@@ -2,10 +2,8 @@
 
 The 2P Finger Dance Dance Revolution music game in Python (**PYQT5**) 
 
-This project is one of my school project which is done in a hurry week, it still needs much improvement. See [TODO](#todo).
-However, in the current version, you can already have some fun with creating your own music sheet and play it (with your friend, it's 2P).
-
-![Phase](https://img.shields.io/badge/Phase-Need%20Enhansed%20But%20Not%20In%20Developing-orange.svg) <br/>
+This project is designed and done in only a hurry week, it still needs much improvement. See [TODO](#todo).
+However, **in the current version, you can already have some fun with creating your own music sheet and it can play** (with your friend, it's 2P).
 
 # Table of contents
 
